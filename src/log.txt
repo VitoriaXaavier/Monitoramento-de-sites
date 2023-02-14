@@ -1,0 +1,60 @@
+14/02/2023 14:20:28 - https://www.alura.com.br/-online: true
+14/02/2023 14:20:28 - https://www.globo.com/-online: true
+14/02/2023 14:20:29 - https://random-status-code.herokuapp.com/-online: false
+14/02/2023 14:20:29 - https://globoplay.globo.com/-online: true
+14/02/2023 14:20:29 - https://www.uva.br/-online: true
+14/02/2023 14:21:29 - https://www.alura.com.br/-online: true
+14/02/2023 14:21:29 - https://www.globo.com/-online: true
+14/02/2023 14:21:30 - https://random-status-code.herokuapp.com/-online: false
+14/02/2023 14:21:30 - https://globoplay.globo.com/-online: true
+14/02/2023 14:21:30 - https://www.uva.br/-online: true
+14/02/2023 14:22:30 - https://www.alura.com.br/-online: true
+14/02/2023 14:22:31 - https://www.globo.com/-online: true
+14/02/2023 14:22:32 - https://random-status-code.herokuapp.com/-online: false
+14/02/2023 14:22:32 - https://globoplay.globo.com/-online: true
+14/02/2023 14:22:32 - https://www.uva.br/-online: true
+14/02/2023 14:23:32 - https://www.alura.com.br/-online: true
+14/02/2023 14:23:32 - https://www.globo.com/-online: true
+14/02/2023 14:23:33 - https://random-status-code.herokuapp.com/-online: false
+14/02/2023 14:23:33 - https://globoplay.globo.com/-online: true
+14/02/2023 14:23:33 - https://www.uva.br/-online: true
+14/02/2023 14:24:33 - https://www.alura.com.br/-online: true
+14/02/2023 14:24:33 - https://www.globo.com/-online: true
+14/02/2023 14:24:35 - https://random-status-code.herokuapp.com/-online: false
+14/02/2023 14:24:35 - https://globoplay.globo.com/-online: true
+14/02/2023 14:24:35 - https://www.uva.br/-online: true
+14/02/2023 14:25:35 - https://www.alura.com.br/-online: true
+14/02/2023 14:25:35 - https://www.globo.com/-online: true
+14/02/2023 14:25:36 - https://random-status-code.herokuapp.com/-online: false
+14/02/2023 14:25:36 - https://globoplay.globo.com/-online: true
+14/02/2023 14:25:36 - https://www.uva.br/-online: true
+14/02/2023 14:33:48 - https://www.alura.com.br/ -online? -true
+14/02/2023 14:33:48 - https://www.globo.com/ -online? -true
+14/02/2023 14:33:49 - https://random-status-code.herokuapp.com/ -online? -false
+14/02/2023 14:33:49 - https://globoplay.globo.com/ -online? -true
+14/02/2023 14:33:49 - https://www.uva.br/ -online? -true
+14/02/2023 14:34:49 - https://www.alura.com.br/ -online? -true
+14/02/2023 14:34:49 - https://www.globo.com/ -online? -true
+14/02/2023 14:34:50 - https://random-status-code.herokuapp.com/ -online? -false
+14/02/2023 14:34:50 - https://globoplay.globo.com/ -online? -true
+14/02/2023 14:34:50 - https://www.uva.br/ -online? -true
+14/02/2023 14:35:50 - https://www.alura.com.br/ -online? -true
+14/02/2023 14:35:50 - https://www.globo.com/ -online? -true
+14/02/2023 14:35:51 - https://random-status-code.herokuapp.com/ -online? -false
+14/02/2023 14:35:51 - https://globoplay.globo.com/ -online? -true
+14/02/2023 14:35:51 - https://www.uva.br/ -online? -true
+14/02/2023 14:36:51 - https://www.alura.com.br/ -online? -true
+14/02/2023 14:36:51 - https://www.globo.com/ -online? -true
+14/02/2023 14:36:52 - https://random-status-code.herokuapp.com/ -online? -false
+14/02/2023 14:36:52 - https://globoplay.globo.com/ -online? -true
+14/02/2023 14:36:53 - https://www.uva.br/ -online? -true
+14/02/2023 14:37:53 - https://www.alura.com.br/ -online? -true
+14/02/2023 14:37:53 - https://www.globo.com/ -online? -true
+14/02/2023 14:37:53 - https://random-status-code.herokuapp.com/ -online? -false
+14/02/2023 14:37:53 - https://globoplay.globo.com/ -online? -true
+14/02/2023 14:37:54 - https://www.uva.br/ -online? -true
+14/02/2023 14:38:54 - https://www.alura.com.br/ -online? -true
+14/02/2023 14:38:54 - https://www.globo.com/ -online? -true
+14/02/2023 14:38:55 - https://random-status-code.herokuapp.com/ -online? -false
+14/02/2023 14:38:55 - https://globoplay.globo.com/ -online? -true
+14/02/2023 14:38:55 - https://www.uva.br/ -online? -true
